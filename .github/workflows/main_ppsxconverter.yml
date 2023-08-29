@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ppsxconverter'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E30834FAD404820B83BE34AD9FE1A96 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7F18926FC4774474BDC9ED0538234093 }}
